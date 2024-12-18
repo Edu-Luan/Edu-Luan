@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, sou Eduardo Luan 👋
 
-<!--
-**Edu-Luan/Edu-Luan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou um desenvolvedor com foco em **DevOps**, mas também trabalho com **desenvolvimento Front-End**. 
+Estou sempre buscando otimizar processos e aprender mais sobre tudo que envolve automação e escalabilidade!
 
-Here are some ideas to get you started:
+<br/>
+<br/>
+<br/>
+<div style="display: flex; gap: 50px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" alt="JavaScript" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" alt="Docker" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" alt="HTML5" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" alt="CSS3" width="50" height="50">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-plain.svg" alt="Linux" width="50" height="50">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+### Sobre mim
+
+- 💻 Trabalhando como desenvolvedor Front-End e DevOps.
+- 📖 Atualmente aprendendo mais sobre **Docker** e **CI/CD**.
+- 🚀 Gosto de integrar minhas habilidades para criar soluções completas, que envolvem tanto a infraestrutura quanto a parte do código.
+
+#
+
+<div>
+  <a href="https://www.linkedin.com/in/eduardo-rosa-7a47a4167/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:eduardoluan.r@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
